@@ -813,3 +813,13 @@ C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.
 C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\obj\Debug\net6.0\build-gz\V++WrxA1.gz
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\obj\Debug\net6.0\build-gz\LzLgDjAS.gz
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+C:\Users\Projects\ShopOnline.Web\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
