@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShopOnline.Api",
+    "\\ShopOnline.Api\\Controllers",
+    "\\ShopOnline.Api\\Entities",
+    "\\ShopOnline.Api\\Repositories",
+    "\\ShopOnline.Models",
+    "\\ShopOnline.Web\\Client",
+    "\\ShopOnline.Web\\obj",
+    "\\ShopOnline.Web\\Services",
+    "\\ShopOnline.Web\\Services\\Contracts"
+  ],
+  "SelectedNode": "\\ShopOnline.Web.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -23,7 +23,7 @@ namespace ShopOnline.Api
 
 
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
-
+            builder.Services.AddScoped<IShoppingCartRepository, ShoppingCartRepository>();
 
 
 
